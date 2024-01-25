@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.nav{
+    width: 100%;
+    height: 10%;
+    background-color:rgb(247, 167, 20);
+    padding: 20px;
+    font: size 40px; 
+    font-family:Times, 'Times New Roman', serif;
+    position: absolute;
+    top:15%;
+
+}
+
+.item{
+    font-size: 30px;
+    position: absolute;
+}
+.Home{
+    left: 13%;
+
+}
+.About{
+    left: 23%;
+
+}
+.Variety{
+    left: 33%;
+
+}
+.Delivery{
+    left: 43%;
+
+}
+.Contact{
+    left: 53%;
+}
+.Quality{
+    left: 63%;
+}
+.Location{
+    left: 73%;
+}
+
+
+
+
+
+.right-image{
+    width: 1px;
+    padding: 1px;
+    position: absolute;
+    left: 86%;
+    top:25%;
+
+}
+.logo{
+    position: absolute;
+    top: 0%;
+    width: 10%;
+    height: 10px;
+    padding: 1px;
+}
+.cake{
+    position: absolute;
+    text-align: center;
+    left: 40.5%;
+    top: 4%;
+    font-family: Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: crimson;
+    font-size: 22px;
+}
+.cake2{
+    position: absolute;
+    left: 72.5%;
+    top: 40%;
+}
+.cake3{
+    position: absolute;
+    left: 58.8%;
+    top:56% ;
+}
+.content{
+    
+    width: 50%;
+    position: absolute;
+    left: 5%;
+    top: 30%;
+}
+.content>h1{
+
+    font-size: 70px;
+    letter-spacing: 2px;
+
+
+}
+.content>p{
+    font-size: 20px;
+    letter-spacing:2px;
+    margin-bottom: 20px;
+    font-family:  Geneva;
+}
+.content>button{
+    padding:2px ;
+    background-color: cornsilk;
+    font-size: 20px;
+    font-family: Georgia;
+}
+
+.footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    border: 2px solid red;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+.d{
+    position: absolute;
+    bottom:5.5%;
+    left: 20.7%;
+}
+.c{
+    position: absolute;
+    bottom: 4.5%;
+    left: 10.2%;
+}
